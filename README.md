@@ -66,10 +66,10 @@ This bot runs in the background, listens to your channel, and stores movie files
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/FlickWiz.git
+git clone https://github.com/Aadishranjan/FlickWiz
 cd FlickWiz
 pip install -r requirements.txt
 python bot.py
-git clone https://github.com/yourusername/Admin.git
+git clone https://github.com/Aadishranjan/Admin.git
 cd Admin
 python bot.py
